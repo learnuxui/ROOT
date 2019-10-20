@@ -1,7 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.mkyong.BookControllerRestTemplateTest
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.63 s <<< FAILURE! - in com.mkyong.BookControllerRestTemplateTest
-initializationError(com.mkyong.BookControllerRestTemplateTest)  Time elapsed: 0.011 s  <<< ERROR!
-java.lang.Exception: No runnable methods
-
